@@ -231,7 +231,7 @@ public class Formulaire extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    
+
     private void jTextField3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField3ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jTextField3ActionPerformed
@@ -249,7 +249,7 @@ public class Formulaire extends javax.swing.JFrame {
 
         DefaultTableModel model = (DefaultTableModel) jTable1.getModel();
 
-        model.insertRow(0, new Object[]{"cne", "dfada", "fadasd", "dfwe", "adsadqwe"});
+        model.insertRow(0, new Object[]{"cne", "dfada", "fadasd", "dfwe", "adsadqwe", "asda", "wqe", "asdzcxz"});
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
