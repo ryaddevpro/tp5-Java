@@ -102,7 +102,7 @@ public class Formulaire extends javax.swing.JFrame {
         jRadioButton2.setActionCommand("optin  from github 2");
         System.out.println(buttonGroup1.getSelection().getActionCommand());
         buttonGroup1.clearSelection();
-        System.out.println("tp5.netbeans.exo2.Formulaire.jButton1ActionPerformed()");
+        System.out.println("tp5.netbeans.mulaire.jButton1ActionPerformed()");
 
 
     }//GEN-LAST:event_jButton1ActionPerformed
