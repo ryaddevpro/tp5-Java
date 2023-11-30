@@ -103,7 +103,7 @@ public class Formulaire extends javax.swing.JFrame {
         System.out.println(buttonGroup1.getSelection().getActionCommand());
         buttonGroup1.clearSelection();
         System.out.println("tp5.netbeans.mulaire.jButton1ActionPerformed()");
-
+        System.out.println("from github");
 
     }//GEN-LAST:event_jButton1ActionPerformed
 
