@@ -99,7 +99,7 @@ public class Formulaire extends javax.swing.JFrame {
 
         String text = jTextField1.getText();
         jRadioButton1.setActionCommand("optin 1");
-        jRadioButton2.setActionCommand("optin 2");
+        jRadioButton2.setActionCommand("optin  from github 2");
         System.out.println(buttonGroup1.getSelection().getActionCommand());
         buttonGroup1.clearSelection();
         System.out.println("tp5.netbeans.exo2.Formulaire.jButton1ActionPerformed()");
